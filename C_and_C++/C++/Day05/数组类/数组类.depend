@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621311691 source:e:\study-before-work\c_and_c++\c++\day05\数组类\main.cpp
+	<iostream>
+	"Myarray.h"
+
+1621310924 e:\study-before-work\c_and_c++\c++\day05\数组类\myarray.h
+	<iostream>
+
+1621311729 source:e:\study-before-work\c_and_c++\c++\day05\数组类\myarray.cpp
+	"Myarray.h"
+
